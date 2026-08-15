@@ -1,0 +1,1 @@
+{"version":3,"file":"leaderboard.js","sourceRoot":"","sources":["../../src/routes/leaderboard.ts"],"names":[],"mappings":";;;;;AAAA,sDAA8B;AAC9B,gFAI8C;AAE9C,MAAM,MAAM,GAAG,iBAAO,CAAC,MAAM,EAAE,CAAC;AAEhC,MAAM,CAAC,GAAG,CAAC,GAAG,EAAE,sCAAc,CAAC,CAAC;AAChC,MAAM,CAAC,GAAG,CAAC,eAAe,EAAE,mCAAW,CAAC,CAAC;AACzC,MAAM,CAAC,GAAG,CAAC,GAAG,EAAE,yCAAiB,CAAC,CAAC;kBAEpB,MAAM"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"leaderboardController.d.ts","sourceRoot":"","sources":["../../src/controllers/leaderboardController.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAG5C,eAAO,MAAM,cAAc,QAAe,OAAO,OAAO,QAAQ,kBAc/D,CAAC;AAEF,eAAO,MAAM,WAAW,QAAe,OAAO,OAAO,QAAQ,4DAsB5D,CAAC;AAEF,eAAO,MAAM,iBAAiB,QAAe,OAAO,OAAO,QAAQ,kBAoBlE,CAAC"}
